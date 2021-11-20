@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Household Electricity Data scraping and processing**
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Big Data** & AI
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
