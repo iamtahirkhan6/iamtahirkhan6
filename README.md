@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Big Data** & **AI**
 
-- 👯 I’m looking to collaborate on *data analysis* and **machine learning projects**
+- 👯 I’m looking to collaborate on **data analysis** and **machine learning projects**
 
 - 🤝 I’m looking for help with **app development**
 
