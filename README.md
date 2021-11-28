@@ -1,5 +1,6 @@
 ![Tahir Khan Banner](https://raw.githubusercontent.com/iamtahirkhan6/iamtahirkhan6/main/Github.png)
 
+<img alt="Night Coding" src="https://github.com/iamtahirkhan6/iamtahirkhan6/blob/main/Hand%20Wave.gif?raw=true" width='40' align="left"/>
 <h2>Hey there! I'm Tahir</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tahir -->
