@@ -1,14 +1,14 @@
 ![Tahir Khan Banner](https://raw.githubusercontent.com/iamtahirkhan6/iamtahirkhan6/main/Github.png)
 
-<img alt="Night Coding" src="https://github.com/iamtahirkhan6/iamtahirkhan6/blob/main/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm Tahir</h2>
+<img alt="Night Coding" src="https://github.com/iamtahirkhan6/iamtahirkhan6/blob/main/Hand%20Wave.gif?raw=true" width='40' align="left"></img><h2>Hey there! I'm Tahir</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tahir -->
 
 - 🎓 I'm currently studying Big Data & AI at the SRH Berlin Univeristy Of Applied Sciences.
 
-- 🔭 I’m currently working on **Household Electricity Data scraping and processing**
+- 🔭 I’m working on **Household Electricity Data scraping and processing**
 
-- 🌱 I’m currently learning **Data Analysis** & **Big Data Engineering**
+- 🌱 I’m actively learning **Data Analysis** & **Big Data Engineering**
 
 - 👯 I’m looking to collaborate on **data analysis** and **machine learning projects**
 
