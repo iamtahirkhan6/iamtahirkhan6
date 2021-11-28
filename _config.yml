@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Hi. I'm Tahir.
 description: I am a CS postgraduate student, specializing in Big Data & AI. Check out my work below and feel free to drop a message if you want to get in touch with me!
+markdown: kramdown
