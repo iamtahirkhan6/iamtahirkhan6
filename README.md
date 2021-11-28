@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tahir -->
 
-- 🎓 I'm currently studying Big Data & AI at the SRH Berlin Univeristy Of Applied Sciences .\
+- 🎓 I'm currently studying Big Data & AI at the SRH Berlin Univeristy Of Applied Sciences.
 
 - 🔭 I’m currently working on **Household Electricity Data scraping and processing**
 
