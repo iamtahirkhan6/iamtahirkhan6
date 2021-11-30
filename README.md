@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamtahirkhan6?tab=repositories](https://github.com/iamtahirkhan6?tab=repositories)
 
-- 📫 How to reach me **iamtahirkhan6@gmail.com**
+- 📫 You can shoot me an email at **iamtahirkhan6@gmail.com**! I'll try to respond as soon as I can.
 
-- 📄 Know about my experiences [https://www.xing.com/profile/Tahir_Khan30/cv](https://www.xing.com/profile/Tahir_Khan30/cv)
+- 📄 &nbsp;Please have a look at my [Resume](https://github.com/iamtahirkhan6/iamtahirkhan6/raw/main/CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
