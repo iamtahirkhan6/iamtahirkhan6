@@ -9,11 +9,11 @@
 
 - 🔭 I’m working on **Household Electricity Data scraping and processing**
 
-- 🌱 I’m actively learning **Data Analysis** & **Big Data Engineering**
+- 🌱 I’m actively learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **data analysis** and **machine learning projects**
+- 👯 I’m looking to collaborate on **data engineer** and **data analytics projects**
 
-- 🤝 I’m looking for help with **app development**
+- 🤝 I’m looking for help with **machine learning models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamtahirkhan6?tab=repositories](https://github.com/iamtahirkhan6?tab=repositories)
 
